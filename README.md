@@ -1,2 +1,3 @@
 # DevOps-Impacta
-DevOps
+# função: aluno
+# faculdade: Impacta
